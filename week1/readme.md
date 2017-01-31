@@ -1,6 +1,6 @@
 #Cleaning Machine 
 
-It's already installed in your home. It cleans while you run errands, go to work or school. The idea is to save yourself time and provide everyone a tool they can use to keep their homes clean. It will be available for all families of upper, middle and lower class.
+It's already installed in your home. It cleans while you run errands, go to work or school. It also stops on its own to prevent any accidents. The idea is to save yourself time and provide everyone a tool they can use to keep their homes clean. It will be available for all families of upper, middle and lower class.
 
 I want the machine to be user-friendly. The buttons available would be: 
 
