@@ -1,4 +1,4 @@
-#Physical Computing Cheat Sheet
+#Cheat Sheet
 
 ##This is smaller
 
