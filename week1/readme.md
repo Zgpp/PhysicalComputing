@@ -11,3 +11,4 @@ I want the machine to be user-friendly. The buttons available would be:
 
 The connection will be through the heating and cooling wires that are built into the home. 
 
+![fantasy-machine](https://cloud.githubusercontent.com/assets/21225598/22449053/ab97e96e-e72b-11e6-8cef-ca49bd339063.jpg)
