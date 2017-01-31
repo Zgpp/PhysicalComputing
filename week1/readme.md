@@ -1,12 +1,14 @@
 #Cleaning Machine 
 
-It's already installed in your home. It cleans while you run errands, go to work or school. The idea is to save yourself time and provide everyone a tool they can use to keep their homes clean. It's available for all families of lower and middle class income as well.
+It's already installed in your home. It cleans while you run errands, go to work or school. The idea is to save yourself time and provide everyone a tool they can use to keep their homes clean. It will be available for all families of upper, middle and lower class.
 
-I want the machine to be user-friendly. Not have so many buttons just 
+I want the machine to be user-friendly. The buttons available would be: 
 
 * Wash
 * Dry
 * Fold
 
-Somehow within the heating and cooling system built into the home there would be a connection for the cleaning machine. 
+######Possibly adding an on or off button, to save energy.
+
+The connection will be through the heating and cooling system that is built into the home. 
 
