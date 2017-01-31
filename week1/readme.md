@@ -7,8 +7,7 @@ I want the machine to be user-friendly. The buttons available would be:
 * Wash
 * Dry
 * Fold
+**Possibly adding an on or off button, to save energy.
 
-######Possibly adding an on or off button, to save energy.
-
-The connection will be through the heating and cooling system that is built into the home. 
+The connection will be through the heating and cooling wires that are built into the home. 
 
