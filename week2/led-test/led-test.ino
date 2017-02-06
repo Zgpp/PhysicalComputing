@@ -14,9 +14,9 @@ void setup() {
   // put your main code here, to run repeatedly:
   // the loop routine runs over and over again forever:
 void loop() {
-  digitalWrite(yellow, HIGH);   // turn the LED on (HIGH is the voltage level)
+  digitalWrite(yellow, HIGH);   // turn the LED on
   delay(250);                   // wait for a second
-  digitalWrite(yellow, LOW);    // turn the LED off by making the voltage LOW
+  digitalWrite(yellow, LOW);    // turn the LED off
   delay(250); 
   {digitalWrite(green, HIGH);
   delay(250);
@@ -25,6 +25,6 @@ void loop() {
   {digitalWrite(blue, HIGH);
   delay(250);
   digitalWrite(blue, LOW);
-  delay(250);}// wait for a second
+  delay(250);}
 }
 
