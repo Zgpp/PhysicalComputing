@@ -1,3 +1,3 @@
-##Week 2 Assignment: Multiple LED Lights Blinking
+##Week 2 Assignment: Multiple LEDs Blinking
 
 Video: https://vimeo.com/202834691
