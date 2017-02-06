@@ -1,2 +1,2 @@
-#Week 2 Assignment: Binking LED Lights
+#Week 2 Assignment: Blinking LED Lights
 
