@@ -1,3 +1,3 @@
 ##Week 3 Assignment: Multiple LEDs Blinking
 
-Video: https://vimeo.com/202834691
+[Video of Assignment] (https://vimeo.com/202834691)
