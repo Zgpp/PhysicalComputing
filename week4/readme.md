@@ -1,5 +1,3 @@
-##Week 4 Assignment 
+##Week 4 Assignment: One Pushbutton to turn on LED lights
 
-![week4-assignment](https://cloud.githubusercontent.com/assets/21225598/22897272/19b5231a-f1f1-11e6-8000-73a722768d8d.jpg)
-
-Video: https://vimeo.com/203858137
+[Video of Assignment](https://vimeo.com/203858137)
