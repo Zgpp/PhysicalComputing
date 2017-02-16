@@ -6,4 +6,4 @@ From the Arduino Book, Chapter 3, Page 42
 All LEDs lights are on
 
 [Video: Love-O-Meter Temperature Dropping](https://vimeo.com/204416605)
-2 LED lights on, 1 is off
+2 LED lights on; 1 LED light off
