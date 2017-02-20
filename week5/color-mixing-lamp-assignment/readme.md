@@ -2,4 +2,4 @@
 
 From the Arduino Book, Chapter 4, Page 52
 
-[Video:](https://vimeo.com/204895551)
+[Video](https://vimeo.com/204895551)
