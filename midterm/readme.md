@@ -1,3 +1,3 @@
-#Midterm: The Motion Box
+#Midterm: The Magic Box
 
-See Code Plan on my blog (link here)
+See Code Plan on my blog (www.lennseg.com)
