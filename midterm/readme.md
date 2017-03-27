@@ -1,3 +1,3 @@
 #Midterm: The Magic Box
 
-[See code plan on my blog](http://www.lennseg.com/)
+[See code plan on my blog](http://www.lennseg.com/magic-box/)
