@@ -30,4 +30,8 @@ Afterwards, I tested the photoresistor with the LEDs. I noticed the only way the
 
 [Motion Sensor Test Video](https://vimeo.com/210543674)
 
-Afterwards, I worked on some possibilities between the motion sensor and the LEDs.
+##Making the Magic
+
+The ultimate test was getting the LEDS to randomly blink and have one LED be the answer without using delays. I thought about the show, 'The Price is Right' and the spinning of the wheel, that moment where the participant waits for the wheel to stop for an answer. I wanted to give the user that moment of anticipation for the answer. It was intimidating because I didn't want to break anything but at the same time, it was also exciting to see it all come together. It took me about 2 days to assemble the code, and work out the kinks. Until, I finally came to sequence that worked.
+
+
