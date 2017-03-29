@@ -24,7 +24,7 @@ I began by first working on the box. It helped me to define the scale and jump-s
 
 Afterwards, I tested the photoresistor with the LEDs. I noticed the only way the LEDs turn on is by touching the photoresistor. This wasn't going to work since I did not want the user to touch the sensor. I researched another solution and found the Parallax Motion Sensor. Once I connected all the wires, I wanted to test the LEDs in correlation with the motion sensor.
 
-![test-motion](https://cloud.githubusercontent.com/assets/21225598/24440337/a5b478d2-1421-11e7-93e0-9ee495831f23.jpg)
+![test-motion](https://cloud.githubusercontent.com/assets/21225598/24440400/e3bd6670-1421-11e7-8cb7-ea9edb32ab6a.jpg)
 <img width="465" alt="motion-sensor-test" src="https://cloud.githubusercontent.com/assets/21225598/24439201/c3011384-141a-11e7-9ff0-dace01dc1a1f.png">
 
 [Motion Sensor Test Video](https://vimeo.com/210543674)
