@@ -49,7 +49,7 @@ During the process I worked with another box, it was bigger and thick in weight,
 
 #Presentation
 
-![magic-box-presentation](https://cloud.githubusercontent.com/assets/21225598/24473974/1cdb6d86-1499-11e7-9b37-58e981733623.jpg)
+![magic-box-presentation](https://cloud.githubusercontent.com/assets/21225598/24474140/a7de4b60-1499-11e7-954a-daaf145d5db0.jpg)
 
 ##Next Steps
 
