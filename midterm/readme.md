@@ -34,6 +34,4 @@ Afterwards, I tested the photoresistor with the LEDs. I noticed the only way the
 
 The ultimate test was getting the LEDS to randomly blink and have one LED be the answer without using delays. I thought about the show, 'The Price is Right' and the spinning of the wheel, that moment where the participant waits for the wheel to stop for an answer. I wanted to give the user that moment of anticipation for the answer. It was intimidating because I didn't want to break anything but at the same time, it was also exciting to see it all come together. It took me about 2 days to assemble the code, and work out the kinks. Until, I finally came to sequence that worked.
 
-![magic-box-01](https://cloud.githubusercontent.com/assets/21225598/24439597/42481582-141d-11e7-8b52-b18f118003a4.JPG)
-![magic-box-02](https://cloud.githubusercontent.com/assets/21225598/24439663/a1eae226-141d-11e7-8309-12035ac5ece1.JPG)
-
+![magic-box](https://cloud.githubusercontent.com/assets/21225598/24440197/c7e7491c-1420-11e7-97b8-9c5dfba0202c.jpg)
