@@ -41,8 +41,10 @@ The ultimate test was getting the LEDS to randomly blink and have one LED be the
 
 [No Example](https://vimeo.com/210554066)
 
-
 ##Troubleshooting
-During the process I worked with another box, it was bigger and thick in weight, which I also sanded. I was having issues with the motion sensor being detected. At first, I thought it was because it wasn't a clear box but through testing I noticed that in both boxes I should of made holes for the motion sensor to detect easily.
+
+During the process I worked with another box, it was bigger and thick in weight, which I also sanded. I was having issues with the motion sensor being detected. At first, I thought it was because it wasn't a clear but after testing both boxes I noticed that I should of made holes for both for the sensor to detect more easily.
 
 ##Next Steps
+
+I would like to incorporate sound to this project. More specifically, I would like the box to respond back to the user. Whether it's telling the user "ask a question", or responding "no" or "yes". Instead of having the user read instructions, the magic box could come across like a fortune teller. I think this could enhance the experience more. 
