@@ -40,3 +40,8 @@ The ultimate test was getting the LEDS to randomly blink and have one LED be the
 [Yes Example](https://vimeo.com/210549794)
 
 [No Example](https://vimeo.com/210554066)
+
+
+##Troubleshooting
+
+##Next Steps
