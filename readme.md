@@ -1,3 +1,9 @@
+#Physical Computing
+
+##Spring 2017
+
+----------------------------------------------------
+
 #Cheat Sheet
 
 ##This is smaller
@@ -9,5 +15,3 @@
 ![Alternative text](link-to-your-image.jpg)
 
 * this is a list
-
- * under the list
