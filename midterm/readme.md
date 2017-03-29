@@ -37,9 +37,9 @@ The ultimate test was getting the LEDS to randomly blink and have one LED be the
 <img width="550" alt="magic-box-code-01" src="https://cloud.githubusercontent.com/assets/21225598/24440845/9a471920-1424-11e7-8813-615ed56c558c.png">
 <img width="546" alt="magic-box-code-02" src="https://cloud.githubusercontent.com/assets/21225598/24440780/2f2de894-1424-11e7-8ac6-ffdc98dc04a6.png">
 
-[Video: Mahic Box Yes Example](https://vimeo.com/210549794)
+[Video: Yes Example](https://vimeo.com/210549794)
 
-[Video: Magic Box No Example](https://vimeo.com/210554066)
+[Video: No Example](https://vimeo.com/210554066)
 
 ##Troubleshooting
 
