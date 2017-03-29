@@ -27,7 +27,7 @@ Afterwards, I tested the photoresistor with the LEDs. I noticed the only way the
 ![motion-sensor-test](https://cloud.githubusercontent.com/assets/21225598/24440587/f908eb84-1422-11e7-8217-8d75e790672b.jpg)
 <img width="465" alt="motion-sensor-test" src="https://cloud.githubusercontent.com/assets/21225598/24439201/c3011384-141a-11e7-9ff0-dace01dc1a1f.png">
 
-[Motion Sensor Test Video](https://vimeo.com/210543674)
+[Video: Testing the Motion Sensor](https://vimeo.com/210543674)
 
 ##Making the Magic
 
@@ -37,9 +37,9 @@ The ultimate test was getting the LEDS to randomly blink and have one LED be the
 <img width="550" alt="magic-box-code-01" src="https://cloud.githubusercontent.com/assets/21225598/24440845/9a471920-1424-11e7-8813-615ed56c558c.png">
 <img width="546" alt="magic-box-code-02" src="https://cloud.githubusercontent.com/assets/21225598/24440780/2f2de894-1424-11e7-8ac6-ffdc98dc04a6.png">
 
-[Yes Example](https://vimeo.com/210549794)
+[Video: Mahic Box Yes Example](https://vimeo.com/210549794)
 
-[No Example](https://vimeo.com/210554066)
+[Video: Magic Box No Example](https://vimeo.com/210554066)
 
 ##Troubleshooting
 
