@@ -47,6 +47,10 @@ During the process I worked with another box, it was bigger and thick in weight,
 
 ![box-problems](https://cloud.githubusercontent.com/assets/21225598/24470428/e497b9fe-148c-11e7-91be-ffe178a68556.jpg)
 
+#Presentation
+
+![magic-box-presentation](https://cloud.githubusercontent.com/assets/21225598/24473974/1cdb6d86-1499-11e7-9b37-58e981733623.jpg)
+
 ##Next Steps
 
 I would like to incorporate sound to this project. More specifically, I would like the box to respond back to the user. Whether it's telling the user "ask a question", or responding "no" or "yes". Instead of having the user read instructions, the magic box could come across like a fortune teller. I think this could enhance the experience more. 
