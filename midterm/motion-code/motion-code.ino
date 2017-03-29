@@ -35,7 +35,6 @@ analogWrite(ledWhitePin, 0); //set NO to Low
 digitalWrite(sensor, LOW); //stop the motions sensor
 Serial.println("Motion stopped!");
 delay (3000); //hold for 3 seconds
-
 }
 else if(randNumber < 50) //if the randNumber is less than 50
 {
