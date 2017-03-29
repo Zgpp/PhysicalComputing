@@ -33,7 +33,7 @@ Afterwards, I tested the photoresistor with the LEDs. I noticed the only way the
 
 The ultimate test was getting the LEDS to randomly blink and have one LED be the answer without using delays. I thought about the show, 'The Price is Right' and the spinning of the wheel, that moment where the participant waits for the wheel to stop for an answer. I wanted to give the user that moment of anticipation for the answer. It was intimidating because I didn't want to break anything but at the same time, it was also exciting to see it all come together. It took me about 2 days to assemble the code, and work out the kinks. Until, I finally came to sequence that worked.
 
-The input is once the motion is detected, the output is a random number will generate from 0-100. While the number is generating, the LEDs will alternate from each other (Blue LED and White LED). This will happen for five seconds. 
+The input is once the motion being detected, the output will be a random number is going to generate from 0-100. While the number is generating, the LEDs will alternate from the Blue LED to the White LED. This will happen for five seconds. 
 
 If the number is less than 50 the response is No (the White LED will light up). If the number is more than 50 the response is YES (the Blue LED will light up). Whatever the response is, the light will stay lit for three seconds. This process will repeat whenever motion is detected (the motion sensor is very sensitive so it will detect constantly).
 
