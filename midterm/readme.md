@@ -33,6 +33,10 @@ Afterwards, I tested the photoresistor with the LEDs. I noticed the only way the
 
 The ultimate test was getting the LEDS to randomly blink and have one LED be the answer without using delays. I thought about the show, 'The Price is Right' and the spinning of the wheel, that moment where the participant waits for the wheel to stop for an answer. I wanted to give the user that moment of anticipation for the answer. It was intimidating because I didn't want to break anything but at the same time, it was also exciting to see it all come together. It took me about 2 days to assemble the code, and work out the kinks. Until, I finally came to sequence that worked.
 
+The input is once the motion is detected, the output is a random number will generate from 0-100. While the number is generating, the LEDs will alternate from each other (Blue LED and White LED). This will happen for five seconds. 
+
+If the number is less than 50 the response is No (the White LED will light up). If the number is more than 50 the response is YES (the Blue LED will light up). Whatever the response is, the light will stay lit for three seconds. This process will repeat whenever motion is detected (the motion sensor is very sensitive so it will detect constantly).
+
 ![magic-box](https://cloud.githubusercontent.com/assets/21225598/24440197/c7e7491c-1420-11e7-97b8-9c5dfba0202c.jpg)
 <img width="550" alt="magic-box-code-01" src="https://cloud.githubusercontent.com/assets/21225598/24440845/9a471920-1424-11e7-8813-615ed56c558c.png">
 <img width="546" alt="magic-box-code-02" src="https://cloud.githubusercontent.com/assets/21225598/24440780/2f2de894-1424-11e7-8ac6-ffdc98dc04a6.png">
@@ -43,7 +47,7 @@ The ultimate test was getting the LEDS to randomly blink and have one LED be the
 
 ##Troubleshooting
 
-During the process I worked with another box, it was bigger and thick in weight, which I also sanded. I was having issues with the motion sensor being detected. At first, I thought it was because it wasn't a clear but after testing both boxes I noticed that I should of made holes for both for the sensor to detect more easily.
+During the process I worked with another box, it was bigger and thick in weight, which I also sanded. I was having issues with the detection of the sensor. At first, I thought it was because it wasn't a clear but after testing both boxes I noticed that I should of made holes for both for the sensor to detect more easily.
 
 ![box-problems](https://cloud.githubusercontent.com/assets/21225598/24470428/e497b9fe-148c-11e7-91be-ffe178a68556.jpg)
 
@@ -53,4 +57,4 @@ During the process I worked with another box, it was bigger and thick in weight,
 
 ##Next Steps
 
-I would like to incorporate sound to this project. More specifically, I would like the box to respond back to the user. Whether it's telling the user "ask a question", or responding "no" or "yes". Instead of having the user read instructions, the magic box could come across like a fortune teller. I think this could enhance the experience more. 
+I would like to incorporate sound to this project. More specifically, I would like the box to respond back to the user. Whether it's telling the user "ask a question", or responding "no" or "yes". Instead of having the user read instructions, the magic box could be like a fortune teller to the user. I think this could enhance the experience more. 
