@@ -7,5 +7,12 @@ The user will first begin by asking a question. When the user moves his/her hand
 The goal is to create an experience that is dynamic and engaging, one in which the user can make connections between his/her movements and the box’s response.
 
 ##The Process
-I began by first working on the box. It helped me to define the scale and jump-start material experimentation.
+
+I began by first working on the box. It helped me to define the scale and jump-start material experimentation. I sanded the box to give the ilusion of a magic 8 ball so the user won't focus on the lights but on the outcome of their question. 
 ![plasticbox](https://cloud.githubusercontent.com/assets/21225598/24436769/5c8195b6-140b-11e7-83a0-3c6e81161cd6.jpg)
+
+Afterwards, I tested the motion sensor in correlation with the LEDs.
+
+
+
+Afterwards, I worked on some possibilities between the motion sensor and the LEDs.
