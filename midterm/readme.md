@@ -26,6 +26,8 @@ Afterwards, I tested the photoresistor with the LEDs. I noticed the only way the
 
 ![test-motion-01](https://cloud.githubusercontent.com/assets/21225598/24437680/7f1b8e7e-1410-11e7-832d-01120e42a96c.JPG)
 ![test-motion-02](https://cloud.githubusercontent.com/assets/21225598/24437823/5f63a764-1411-11e7-8f19-6bfc0c76c46a.JPG)
+<img width="465" alt="motion-sensor-test" src="https://cloud.githubusercontent.com/assets/21225598/24439201/c3011384-141a-11e7-9ff0-dace01dc1a1f.png">
+
 [Motion Sensor Test Video](https://vimeo.com/210543674)
 
 Afterwards, I worked on some possibilities between the motion sensor and the LEDs.
