@@ -35,3 +35,4 @@ The ultimate test was getting the LEDS to randomly blink and have one LED be the
 
 ![magic-box](https://cloud.githubusercontent.com/assets/21225598/24440197/c7e7491c-1420-11e7-97b8-9c5dfba0202c.jpg)
 <img width="550" alt="magic-box-code-01" src="https://cloud.githubusercontent.com/assets/21225598/24440740/e08bbe82-1423-11e7-9d11-b05b89fc62e8.png">
+<img width="546" alt="magic-box-code-02" src="https://cloud.githubusercontent.com/assets/21225598/24440780/2f2de894-1424-11e7-8ac6-ffdc98dc04a6.png">
