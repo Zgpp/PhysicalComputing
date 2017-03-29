@@ -20,7 +20,7 @@ The goal is to create an experience that is dynamic and engaging, one in which t
 
 I began by first working on the box. It helped me to define the scale and jump-start material experimentation. I sanded the box to give the ilusion of a magic 8 ball so the user won't focus on the lights. 
 
-![plasticbox](https://cloud.githubusercontent.com/assets/21225598/24436769/5c8195b6-140b-11e7-83a0-3c6e81161cd6.jpg)
+![plasticbox-02](https://cloud.githubusercontent.com/assets/21225598/24440314/78b41e64-1421-11e7-9bd9-61b94a963d86.jpg)
 
 Afterwards, I tested the photoresistor with the LEDs. I noticed the only way the LEDs turn on is by touching the photoresistor. This wasn't going to work since I did not want the user to touch the sensor. I researched another solution and found the Parallax Motion Sensor. Once I connected all the wires, I wanted to test the LEDs in correlation with the motion sensor.
 
