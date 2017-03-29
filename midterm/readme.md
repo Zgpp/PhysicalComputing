@@ -7,5 +7,5 @@ The user will first begin by asking a question. When the user moves his/her hand
 The goal is to create an experience that is dynamic and engaging, one in which the user can make connections between his/her movements and the box’s response.
 
 ##The Process
-###Making the Box
-![Uploading plasticbox.jpg…]()
+I began by first working on the box. It helped me to define the scale and jump-start material experimentation.
+![plasticbox](https://cloud.githubusercontent.com/assets/21225598/24436769/5c8195b6-140b-11e7-83a0-3c6e81161cd6.jpg)
