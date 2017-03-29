@@ -45,7 +45,7 @@ The ultimate test was getting the LEDS to randomly blink and have one LED be the
 
 During the process I worked with another box, it was bigger and thick in weight, which I also sanded. I was having issues with the motion sensor being detected. At first, I thought it was because it wasn't a clear but after testing both boxes I noticed that I should of made holes for both for the sensor to detect more easily.
 
-![box-troubleshooting](https://cloud.githubusercontent.com/assets/21225598/24469217/d43d20a2-1488-11e7-8d54-63cee23195d3.jpg)
+![box-problems](https://cloud.githubusercontent.com/assets/21225598/24470116/cfaad8e2-148b-11e7-8c0b-4a26108b7baa.jpg)
 
 ##Next Steps
 
