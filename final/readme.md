@@ -3,21 +3,35 @@
 
 ##Spring 2017
 
-A science experiment showing the health benefits of alcoholic drinks taken before a meal to stimulate the appetite. This project focuses on the cocktail drink, Negroni.
+A science experiment showing the health benefits of an alcoholic drink taken before a meal to stimulate the appetite. This project focuses on the cocktail drink, Negroni. For my final, I wanted to produce a liquid dispenser which switches on and off accompanied by LED lights that shows the stage of the dispensing.
+
+How it Works:
+1. User pushes the button to initialize drink
+2. The arduino will tell the 1st water solenoid to open (letting the Gin flow through); the 1st LED will light up
+3. The 2nd water solenoid will follow afterwards (Campari will flow through); 2nd LED will light up
+4. The 3rd water solenoid will complete the drink (Sweet Vermouth will flow through); 3rd LED will light up
 
 Ingredients for Negroni:
 * Gin
 * Campari
 * Sweet Vermouth
 
-Equipment:
-* 3 Solenoid Valves
-* 3 LEDs
-* 3 Diodes
-* 3 Transistors
-* 12V Battery
+Electrical Components:
+* Arduino Uno
+* Breadboard
+* Jumpwires
+* 3 x Solenoid Valves
+* 3 x Blue LEDs
+* 3 x 560 Ohm Resistors
+* 3 x Diodes
+* 3 x TIP 120 Transistors
+* 3 x 1k Ohm Resistors
+* 6 x Alligator Clips
+* 12V Power Supply
 
-##The Process: Testing the Solenoids
+##Initial Testing: Getting the Solenoid to Open and Close
+
+I split the process into two parts. Once I got the first solenoid working reliably, I then combined the other two. The next thing was to try and combine the LEDs into the system. The LED works via the 5v power supply from the Arduino, not the 12v external power supply.
 
 ![001-testing-solenoid](https://cloud.githubusercontent.com/assets/21225598/25321865/ea4ce976-287f-11e7-827a-667f5e01b3f8.jpg)
 <img width="480" alt="solenoid-test" src="https://cloud.githubusercontent.com/assets/21225598/25322361/4cc71596-2884-11e7-8a91-1ad219b5b406.png">
