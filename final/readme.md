@@ -3,7 +3,7 @@
 
 ##Spring 2017
 
-A science experiment showing the health benefits of an alcoholic drink taken before a meal to stimulate the appetite. This project focuses on the cocktail drink, Negroni. For my final, I wanted to produce a liquid dispenser which switches on and off accompanied by LED lights that shows the stages of the dispensing.
+A science experiment showing the health benefits of an alcoholic drink taken before a meal to stimulate the appetite. This project focuses on the cocktail drink, Negroni. For my final, I wanted to produce a liquid dispenser which switches on and off accompanied by LED lights that show the stages of the dispenser.
 
 How it Works:
 1. User pushes the button to initialize drink
