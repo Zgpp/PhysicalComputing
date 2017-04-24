@@ -31,7 +31,7 @@ Electrical Components:
 
 ##Initial Testing: Getting the Solenoid to Open and Close
 
-I split the process into two parts. Once I got the first solenoid working reliably, I then combined the other two. The next thing was to try and combine the LEDs into the system. The LED works via the 5v power supply from the Arduino, not the 12v external power supply.
+Once I got the first solenoid working reliably, the next thing was to try and combine the LED into the system. After I got the first solenoid to open and close, I combied all three solenoids together. I noticed the LED works via the 5v power supply from the Arduino, not the 12v external power supply.
 
 ![001-testing-solenoid](https://cloud.githubusercontent.com/assets/21225598/25321865/ea4ce976-287f-11e7-827a-667f5e01b3f8.jpg)
 <img width="480" alt="solenoid-test" src="https://cloud.githubusercontent.com/assets/21225598/25322361/4cc71596-2884-11e7-8a91-1ad219b5b406.png">
