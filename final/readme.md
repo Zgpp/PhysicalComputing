@@ -22,3 +22,6 @@ Equipment:
 ![002-testing-all-solenoids](https://cloud.githubusercontent.com/assets/21225598/25321947/6a03694c-2880-11e7-97cd-ff4f766e268c.jpg)
 ![003-testing-all-solenoids](https://cloud.githubusercontent.com/assets/21225598/25321987/ac6d55e0-2880-11e7-9a3f-ec169cc16d95.jpg)
 ![004-creating-the-frame-sketch](https://cloud.githubusercontent.com/assets/21225598/25322017/f94cd7be-2880-11e7-82cb-009ea6ee9ada.jpg)
+
+<iframe src="https://player.vimeo.com/video/214440852" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/214440852">Testing the Solenoid</a> from <a href="https://vimeo.com/user32156003">Lennse Garcia</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
