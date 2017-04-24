@@ -12,7 +12,7 @@ How it Works:
 4. The 3rd water solenoid will complete the drink (Sweet Vermouth will flow through); 3rd LED will light up
 
 Ingredients for Negroni:
-* Gin
+* Tanqueray Gin
 * Campari
 * Sweet Vermouth
 
