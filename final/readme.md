@@ -23,4 +23,4 @@ Equipment:
 ![003-testing-all-solenoids](https://cloud.githubusercontent.com/assets/21225598/25321987/ac6d55e0-2880-11e7-9a3f-ec169cc16d95.jpg)
 ![004-creating-the-frame-sketch](https://cloud.githubusercontent.com/assets/21225598/25322017/f94cd7be-2880-11e7-82cb-009ea6ee9ada.jpg)
 
-(Testing the Solenoid Video)[https://vimeo.com/214440852]
+[Video: Testing the Solenoid](https://vimeo.com/214440852)
