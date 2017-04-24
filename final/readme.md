@@ -10,8 +10,11 @@ Ingredients for Negroni:
 * Sweet Vermouth
 
 Equipment:
-3 Solenoid Valves
-3 LEDs
-3 Diodes
-3 Transistors
-12V Battery
+* 3 Solenoid Valves
+* 3 LEDs
+* 3 Diodes
+* 3 Transistors
+* 12V Battery
+
+##The Process: Testing the Solenoids
+
