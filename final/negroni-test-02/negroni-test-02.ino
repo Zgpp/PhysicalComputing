@@ -4,7 +4,6 @@ int campari = 9;        //assign 2nd Solenoid to pin 9
 int ledTwo = 8;         //assign 2nd LED to pin 8
 int sweetVermouth = 12; //assign 3rd Solenoid to pin 12
 int ledThree = 11;      //assign 3rd LED to pin 11
-int strobe=100;         //this controls how fast the LEDs will blink in line
 int pushButton = 13;     //push button to start dispenser
 int switchState = 0;
 
@@ -21,21 +20,6 @@ void setup() {
 }
 
 void loop() {
-    //this stops when the button is pressed
-  
-  digitalWrite (ledOne, HIGH);    //turns ON LED 1 
-  delay(strobe);                  //controls how fast the LEDs flash
-  digitalWrite (ledOne, LOW);     //turns OFF LED 1
-  delay(strobe);
-  digitalWrite (ledTwo, HIGH);    //turns ON LED 2
-  delay(strobe);
-  digitalWrite (ledTwo, LOW);     //turns OFF LED 2
-  delay(strobe);
-  digitalWrite (ledThree, HIGH);  //turns ON LED 3
-  delay(strobe);
-  digitalWrite (ledThree, LOW);   //turns OFF LED 3
-  delay(strobe);
-  
   switchState = digitalRead(pushButton);
   if (switchState ==  HIGH) {
   //when button is pressed an LED will show which solenoid is running
@@ -45,10 +29,10 @@ void loop() {
     digitalWrite(ledOne, HIGH);         //LED 1 is ON
     delay(5000);                        //5 second delay
     digitalWrite(campari, HIGH);        //OPENS solenoid 2
-    digitalWrite(ledTwo, HIGH);         //LED 2 is OFF
+    digitalWrite(ledTwo, HIGH);         //LED 2 is ON
     delay(5000);                        //5 second delay
-    digitalWrite(sweetVermouth, HIGH);  //OEPNS solenoid 3
-    digitalWrite(ledThree, HIGH);       //LED 3 is OFF
+    digitalWrite(sweetVermouth, HIGH);  //OPENS solenoid 3
+    digitalWrite(ledThree, HIGH);       //LED 3 is ON
     delay(5000);                        //5 second delay
 
   } else {
