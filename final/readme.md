@@ -7,9 +7,9 @@ A science experiment showing the health benefits of an alcoholic drink taken bef
 
 How it Works:
 1. User pushes the button to initialize drink
-2. The arduino will tell the 1st water solenoid to open (letting the Gin flow through); the 1st LED will light up
-3. The 2nd water solenoid will follow afterwards (Campari will flow through); 2nd LED will light up
-4. The 3rd water solenoid will complete the drink (Sweet Vermouth will flow through); 3rd LED will light up
+2. The arduino will tell the 1st solenoid to open (Gin will dispense for 5 seconds); the 1st LED will light up
+3. The 2nd solenoid will follow afterwards (Campari will dispense for 5 seconds); 2nd LED will light up
+4. The 3rd solenoid will complete the drink (Sweet Vermouth will dispense for 5 seconds); 3rd LED will light up
 
 Ingredients for Negroni:
 * Tanqueray Gin
