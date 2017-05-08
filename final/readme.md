@@ -64,7 +64,7 @@ Completion of the Frame:
 
 ##The Dispenser
 
-After setting up the solenoids on the frame and re-wiring everything, I re-worked the code for the solenoids to release after 5 seconds. I wanted to incorporate a push button to initialize the Negroni cocktail but that caused some issues with the Arduino. In beginning the code was working and then all of a sudden the Arduino would not respond. I ended up burning my Arduino (again). I was able to replace it but figuring out how to work the button and solenoids without burning an Arduino was very challenging.
+After setting up the solenoids on the frame and re-wiring everything, I re-worked the code for the solenoids to release after 5 seconds. I wanted to incorporate a push button to initialize the Negroni cocktail but that caused some issues with the Arduino.
 
 ![aperitif-01](https://cloud.githubusercontent.com/assets/21225598/25788268/c19faf62-3375-11e7-8268-1a2b5c4a73fe.jpg)
 ![aperitif-02](https://cloud.githubusercontent.com/assets/21225598/25788318/36aaf9ce-3376-11e7-8537-852848963e2e.jpg)
@@ -83,6 +83,10 @@ After setting up the solenoids on the frame and re-wiring everything, I re-worke
 [Video: Testing the Negroni Code on Arduino Board](https://vimeo.com/216440588)
 
 The code can easily be modified to deliver any drink for 5 seconds (more or less). It should be noted that the device is not limited to only one drink. The design can be modified to make numerous drinks each selected by a push button. 
+
+##Issues with the Button
+
+In beginning the code was working and then all of a sudden the Arduino would not respond. I ended up burning my Arduino (again). I was able to replace it but figuring out how to work the button and solenoids without burning an Arduino was very challenging.
 
 ##Health Benefits of an Apéritif Cocktail:
 
