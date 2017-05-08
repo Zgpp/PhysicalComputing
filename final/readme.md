@@ -103,6 +103,4 @@ The code can easily be modified to deliver any drink for 5 seconds (more or less
 
 ##Questions & Next Steps
 
-I want to continue working on my dispenser and hopefully make the button work with a sequence of solenoids opening and closing. It was really challenging calculating the engineering aspect of this project. In a sense I did not have the control of how much water was going to come out. The water pump is continuously drawing in water but when all the solenoid’s are closed where does the water go? I'm going to look into a pressure regulator.
-
-Overall, I enjoyed working on this project and with more time I hope to get better with Physical Computing.
+I want to continue working on my dispenser and hopefully make the button work with a sequence of solenoids opening and closing. It was really challenging calculating the engineering aspect of this project. In a sense I did not have the control of how much water was going to come out. The water pump is continuously drawing in water but when all the solenoid’s are closed where does the water go? I'm going to look into a pressure regulator. Hopefully, I will have a working cocktail dispenser soon!
