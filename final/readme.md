@@ -77,6 +77,7 @@ After setting up the solenoids on the frame and re-wiring everything, I re-worke
 
 
 <img width="589" alt="negroni-test-01-01" src="https://cloud.githubusercontent.com/assets/21225598/25790112/27d8ca44-3384-11e7-9cc6-b11341009484.png">
+<img width="589" alt="negroni-test-01-02" src="https://cloud.githubusercontent.com/assets/21225598/25790147/7152fe7e-3384-11e7-915c-807be495cc7b.png">
 
 ##Health Benefits of an Apéritif Cocktail:
 
