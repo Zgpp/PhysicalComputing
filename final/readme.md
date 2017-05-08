@@ -75,8 +75,12 @@ After setting up the solenoids on the frame and re-wiring everything, I re-worke
 ![button-03](https://cloud.githubusercontent.com/assets/21225598/25789897/83a3c5ec-3382-11e7-8241-3570525c6cd7.jpg)
 ![button-02](https://cloud.githubusercontent.com/assets/21225598/25789911/acfe46ce-3382-11e7-85a3-7c5cab6bd76f.jpg)
 
+[Video: Testing the Button on Arudino Board](https://vimeo.com/216439289)
+
 <img width="589" alt="negroni-test-01-01" src="https://cloud.githubusercontent.com/assets/21225598/25790112/27d8ca44-3384-11e7-9cc6-b11341009484.png">
 <img width="589" alt="negroni-test-01-02" src="https://cloud.githubusercontent.com/assets/21225598/25790147/7152fe7e-3384-11e7-915c-807be495cc7b.png">
+
+[Video: Testing the Negroni Code on Arduino Board](https://vimeo.com/216440588)
 
 The code can easily be modified to deliver any drink for 5 seconds (more or less). It should be noted that the device is not limited to only one drink. The design can be modified to make numerous drinks each selected by a push button. 
 
