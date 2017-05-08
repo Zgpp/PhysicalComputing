@@ -85,7 +85,9 @@ After setting up the solenoids on the frame and re-wiring everything, I re-worke
 ##Showcase
 
 ![aperitif-showcase](https://cloud.githubusercontent.com/assets/21225598/25789134/34bb8f1a-337c-11e7-9f30-59fc265ec047.jpg)
+
 <img width="537" alt="negroni-test-03-01" src="https://cloud.githubusercontent.com/assets/21225598/25790385/19a23e9a-3386-11e7-8b79-3653b23c3c53.png">
+
 The code can easily be modified to deliver any drink for 5 seconds (more or less). It should be noted that the device is not limited to only one drink. The design can be modified to make numerous drinks each selected by a push button. 
 
 ##Troubleshooting
