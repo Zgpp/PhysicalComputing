@@ -45,11 +45,11 @@ The code below tested the opening and closing of the solenoids.
 
 [Video: Testing the Solenoid](https://vimeo.com/214440852)
 
-##Creating the Frame
+##The Frame
 
-With only two hands, I was having a difficult time testing the solenoids with all three bottles turned upside down. I decided to begin working on the frame to at least hold the bottles while I'm testing. I began by measuring the distance between each bottle (4 inches). With an additional inch on each side, the total frame is 14 inches wide and 18 inches in height.
+I was having a difficult time testing the solenoids with all three bottles turned upside down. I decided to begin working on the frame to at least hold the bottles while I'm testing. I began by measuring the distance between each bottle (4 inches). With an additional inch on each side, the total frame is 14 inches wide and 18 inches in height.
 
-Below is a sketch of my frame:
+Below is a sketch of my frame with measurement details:
 
 ![004-creating-the-frame-sketch](https://cloud.githubusercontent.com/assets/21225598/25322017/f94cd7be-2880-11e7-82cb-009ea6ee9ada.jpg)
 ![005-creating-the-frame](https://cloud.githubusercontent.com/assets/21225598/25322208/dad4c146-2882-11e7-87c8-99b31530171e.jpg)
@@ -58,11 +58,11 @@ I drilled a hole through the spouts for the liquid to flow through the tubes fro
 
 ![006-creating-the-frame](https://cloud.githubusercontent.com/assets/21225598/25322221/fc751666-2882-11e7-935e-6f575502beee.jpg)
 
-Completion of the frame:
+Completion of the Frame:
 
 ![007-creating-the-frame](https://cloud.githubusercontent.com/assets/21225598/25322243/2486175e-2883-11e7-97e4-daf37c643d17.jpg)
 
-##Creating the Dispenser
+##The Dispenser
 
 After setting up the solenoids on the frame and re-wiring everything, I re-worked the code for the solenoids to release after 5 seconds. I wanted to incorporate a push button to initialize the Negroni cocktail but that caused some issues with the Arduino. In beginning the code was working and then all of a sudden the Arduino would not respond. I ended up burning my Arduino (again). I was able to replace it but figuring out how to have the button and solenoids working without burning my Arduino was very challenging.
 
@@ -89,6 +89,8 @@ The code can easily be modified to deliver any drink for 5 seconds (more or less
 [Video: Issues pushing the button to sequence the solenoids](https://vimeo.com/216448266)
 
 ##Health Benefits of an Apéritif Cocktail:
+
+In addition to this dispenser, I addded diagrams to show where in the body the stimulation of the appetite occurs before a meal. I researched a lot and discovered Gin is beneficial to the joints in your body, Sweet Vermouth stimulates your stomach and Campari stimulates your small and large intestines. 
 
 <img width="600" alt="human-body-diagrams" src="https://cloud.githubusercontent.com/assets/21225598/25789382/4ce0359e-337e-11e7-80aa-e79f5b599edb.png">
 
