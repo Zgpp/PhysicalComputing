@@ -31,7 +31,7 @@ Electrical Components:
 
 ##Initial Testing: Getting the Solenoid to Open and Close
 
-Once I got the first solenoid working properly, the next thing was to try and combine an LED into the system. Afterwards, I combined all three solenoids together with three LEDs. I noticed the LED works via the 5v power supply from the Arduino, not the 12v external power supply.
+Once I got the first solenoid working properly, the next thing was to try and combine an LED into the system. Afterwards, I was able to produce the code and circuits for one complete system I could then replicate it another two times. I noticed the LED works via the 5v power supply from the Arduino, not the 12v external power supply.
 
 ![001-testing-solenoid](https://cloud.githubusercontent.com/assets/21225598/25321865/ea4ce976-287f-11e7-827a-667f5e01b3f8.jpg)
 <img width="480" alt="solenoid-test" src="https://cloud.githubusercontent.com/assets/21225598/25322361/4cc71596-2884-11e7-8a91-1ad219b5b406.png">
@@ -64,7 +64,7 @@ Completion of the Frame:
 
 ##The Dispenser
 
-After setting up the solenoids on the frame and re-wiring everything, I re-worked the code for the solenoids to release after 5 seconds. I wanted to incorporate a push button to initialize the Negroni cocktail but that caused some issues with the Arduino. In beginning the code was working and then all of a sudden the Arduino would not respond. I ended up burning my Arduino (again). I was able to replace it but figuring out how to have the button and solenoids working without burning my Arduino was very challenging.
+After setting up the solenoids on the frame and re-wiring everything, I re-worked the code for the solenoids to release after 5 seconds. I wanted to incorporate a push button to initialize the Negroni cocktail but that caused some issues with the Arduino. In beginning the code was working and then all of a sudden the Arduino would not respond. I ended up burning my Arduino (again). I was able to replace it but figuring out how to have the button and solenoids could work without burning an Arduino was very challenging.
 
 ![aperitif-01](https://cloud.githubusercontent.com/assets/21225598/25788268/c19faf62-3375-11e7-8268-1a2b5c4a73fe.jpg)
 ![aperitif-02](https://cloud.githubusercontent.com/assets/21225598/25788318/36aaf9ce-3376-11e7-8537-852848963e2e.jpg)
@@ -90,7 +90,7 @@ The code can easily be modified to deliver any drink for 5 seconds (more or less
 
 ##Health Benefits of an Apéritif Cocktail:
 
-In addition to this dispenser, I addded diagrams to show where in the body the stimulation of the appetite occurs before a meal. I researched a lot and discovered Gin is beneficial to the joints in your body, Sweet Vermouth stimulates your stomach and Campari stimulates your small and large intestines. 
+I added diagrams to show where in the body the stimulation of the appetite occurs before a meal. After researching, I discovered Gin is beneficial to the joints in your body, Sweet Vermouth stimulates your stomach and Campari stimulates your small and large intestines. Campari opens your palette and allows your digestive system to break down the food easily. 
 
 <img width="600" alt="human-body-diagrams" src="https://cloud.githubusercontent.com/assets/21225598/25789382/4ce0359e-337e-11e7-80aa-e79f5b599edb.png">
 
