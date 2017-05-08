@@ -73,6 +73,8 @@ The code can easily be modified to deliver any drink for 5 seconds more or less.
 
 ##Showcase
 
+![aperitif-showcase](https://cloud.githubusercontent.com/assets/21225598/25789134/34bb8f1a-337c-11e7-9f30-59fc265ec047.jpg)
+
 ##Troubleshooting
 
 ##Next Steps
