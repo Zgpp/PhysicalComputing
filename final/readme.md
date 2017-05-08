@@ -64,7 +64,7 @@ Completion of the Frame:
 
 ##The Dispenser
 
-After setting up the solenoids on the frame and re-wiring everything, I re-worked the code for the solenoids to release after 5 seconds. I wanted to incorporate a push button to initialize the Negroni cocktail but that caused some issues with the Arduino.
+After setting up the solenoids on the frame and re-wiring everything, I re-worked the code for the solenoids to release after 5 seconds. I wanted to incorporate a push button to initialize the cocktail but that caused some issues with the Arduino.
 
 ![aperitif-01](https://cloud.githubusercontent.com/assets/21225598/25788268/c19faf62-3375-11e7-8268-1a2b5c4a73fe.jpg)
 ![aperitif-02](https://cloud.githubusercontent.com/assets/21225598/25788318/36aaf9ce-3376-11e7-8537-852848963e2e.jpg)
@@ -88,7 +88,7 @@ In beginning the code was working and then all of a sudden the Arduino would not
 
 ##Health Benefits of an Apéritif Cocktail:
 
-I added diagrams to show where in the body the stimulation of the appetite occurs before a meal. After researching, I discovered Gin is beneficial to the joints in your body, Sweet Vermouth stimulates your stomach and Campari stimulates your small and large intestines. The Negroni cocktail opens your palette and allows your digestive system to break down the food easily. 
+I added diagrams to show where in the body the stimulation of the appetite occurs before a meal. After researching, I discovered Gin is beneficial to the joints in your body, Sweet Vermouth stimulates your stomach and Campari stimulates your small and large intestines. The Negroni opens your palette and allows your digestive system to break down the food easily. 
 
 <img width="600" alt="human-body-diagrams" src="https://cloud.githubusercontent.com/assets/21225598/25789382/4ce0359e-337e-11e7-80aa-e79f5b599edb.png">
 
