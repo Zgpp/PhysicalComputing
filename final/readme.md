@@ -57,4 +57,9 @@ Below is a sketch of my frame:
 I drilled a hole through the spouts for the liquid to flow through the tubes from each bottle. 
 
 ![006-creating-the-frame](https://cloud.githubusercontent.com/assets/21225598/25322221/fc751666-2882-11e7-935e-6f575502beee.jpg)
+
+Completion of the frame:
+
 ![007-creating-the-frame](https://cloud.githubusercontent.com/assets/21225598/25322243/2486175e-2883-11e7-97e4-daf37c643d17.jpg)
+
+##Creating the Dispenser
