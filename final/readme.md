@@ -69,8 +69,6 @@ After setting up the three solenoids and re-wiring everything. I re-worked the c
 ![aperitif-01](https://cloud.githubusercontent.com/assets/21225598/25788268/c19faf62-3375-11e7-8268-1a2b5c4a73fe.jpg)
 ![aperitif-02](https://cloud.githubusercontent.com/assets/21225598/25788318/36aaf9ce-3376-11e7-8537-852848963e2e.jpg)
 
-The code can easily be modified to deliver any drink for 5 seconds more or less. It should be noted that the device is not limited to only one drink. The design can be modified to make numerous drinks each selected by a push button. 
-
 ##Health Benefits of an Apéritif Cocktail:
 
 <img width="600" alt="human-body-diagrams" src="https://cloud.githubusercontent.com/assets/21225598/25789382/4ce0359e-337e-11e7-80aa-e79f5b599edb.png">
@@ -78,6 +76,8 @@ The code can easily be modified to deliver any drink for 5 seconds more or less.
 ##Showcase
 
 ![aperitif-showcase](https://cloud.githubusercontent.com/assets/21225598/25789134/34bb8f1a-337c-11e7-9f30-59fc265ec047.jpg)
+
+The code can easily be modified to deliver any drink for 5 seconds (more or less). It should be noted that the device is not limited to only one drink. The design can be modified to make numerous drinks each selected by a push button. 
 
 ##Troubleshooting
 
