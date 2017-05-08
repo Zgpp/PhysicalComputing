@@ -47,11 +47,14 @@ The code below tested the opening and closing of the solenoids.
 
 ##Creating the Frame
 
-With only two hands, I was having a difficult time testing the solenoids with all three bottles turned upside down. I decided to begin working on the frame to at least hold the bottles while I'm testing. I began by measuring the distance between each bottle (4 inches). With an additional inch on each side, the total frame is 14 inches wide and 18 inches in height. 
+With only two hands, I was having a difficult time testing the solenoids with all three bottles turned upside down. I decided to begin working on the frame to at least hold the bottles while I'm testing. I began by measuring the distance between each bottle (4 inches). With an additional inch on each side, the total frame is 14 inches wide and 18 inches in height.
 
 Below is a sketch of my frame:
 
 ![004-creating-the-frame-sketch](https://cloud.githubusercontent.com/assets/21225598/25322017/f94cd7be-2880-11e7-82cb-009ea6ee9ada.jpg)
 ![005-creating-the-frame](https://cloud.githubusercontent.com/assets/21225598/25322208/dad4c146-2882-11e7-87c8-99b31530171e.jpg)
+
+I drilled a hole through the spouts for the liquid to flow through the tubes from each bottle. 
+
 ![006-creating-the-frame](https://cloud.githubusercontent.com/assets/21225598/25322221/fc751666-2882-11e7-935e-6f575502beee.jpg)
 ![007-creating-the-frame](https://cloud.githubusercontent.com/assets/21225598/25322243/2486175e-2883-11e7-97e4-daf37c643d17.jpg)
