@@ -82,15 +82,13 @@ After setting up the solenoids on the frame and re-wiring everything, I re-worke
 
 [Video: Testing the Negroni Code on Arduino Board](https://vimeo.com/216440588)
 
-The code can easily be modified to deliver any drink for 5 seconds (more or less). It should be noted that the device is not limited to only one drink. The design can be modified to make numerous drinks each selected by a push button. 
-
 ##Issues with the Button
 
-In beginning the code was working and then all of a sudden the Arduino would not respond. I ended up burning my Arduino (again). I was able to replace it but figuring out how to work the button and solenoids without burning an Arduino was very challenging.
+In beginning the code was working and then all of a sudden the Arduino would not respond. I ended up burning my Arduino (again). I was able to fix it but figuring out how to work the button and solenoids without burning an Arduino was very challenging. The button effected the opening of the solenoids which at times did not allow liquid to release. I didn't understand why I was having this issue.
 
 ##Health Benefits of an Apéritif Cocktail:
 
-I added diagrams to show where in the body the stimulation of the appetite occurs before a meal. After researching, I discovered Gin is beneficial to the joints in your body, Sweet Vermouth stimulates your stomach and Campari stimulates your small and large intestines. Campari opens your palette and allows your digestive system to break down the food easily. 
+I added diagrams to show where in the body the stimulation of the appetite occurs before a meal. After researching, I discovered Gin is beneficial to the joints in your body, Sweet Vermouth stimulates your stomach and Campari stimulates your small and large intestines. The Negroni cocktail opens your palette and allows your digestive system to break down the food easily. 
 
 <img width="600" alt="human-body-diagrams" src="https://cloud.githubusercontent.com/assets/21225598/25789382/4ce0359e-337e-11e7-80aa-e79f5b599edb.png">
 
@@ -101,6 +99,10 @@ I presented the dispenser hoping the button would work but unfortunately it was 
 <img width="537" alt="negroni-test-03-01" src="https://cloud.githubusercontent.com/assets/21225598/25790385/19a23e9a-3386-11e7-8b79-3653b23c3c53.png">
 <img width="538" alt="negroni-test-03-02" src="https://cloud.githubusercontent.com/assets/21225598/25790463/b4e5471c-3386-11e7-8d8a-164894bda09e.png">
 
+The code can easily be modified to deliver any drink for 5 seconds (more or less). It should be noted that the device is not limited to only one drink. The design can be modified to make numerous drinks each selected by a push button. 
+
 ##Questions & Next Steps
 
-I will continue to work on my dispenser and hopefully make the button work with a sequence of solenoids opening and closing. It was really challenging calculating the engineering aspect of this project. In a sense I did not have the control of how much water was going to come out. The water pump is continuously drawing in water but when all the solenoid’s are closed where does the water go? I'm going to look into a pressure regulator. 
+I want to continue working on my dispenser and hopefully make the button work with a sequence of solenoids opening and closing. It was really challenging calculating the engineering aspect of this project. In a sense I did not have the control of how much water was going to come out. The water pump is continuously drawing in water but when all the solenoid’s are closed where does the water go? I'm going to look into a pressure regulator.
+
+Overall, I enjoyed working on this project and with more time I hope to get better with Physical Computing.
