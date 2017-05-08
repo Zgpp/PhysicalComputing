@@ -64,7 +64,7 @@ Completion of the frame:
 
 ##Creating the Dispenser
 
-After setting up the solenoids on the frame and re-wiring everything, I re-worked the code for the solenoids to release after 5 seconds. I wanted to incorporate a push button to initialize the Negroni cocktail.
+After setting up the solenoids on the frame and re-wiring everything, I re-worked the code for the solenoids to release after 5 seconds. I wanted to incorporate a push button to initialize the Negroni cocktail but that caused some issues with the Arduino. In beginning the code was working and then all of a sudden the Arduino would not respond. I ended up burning my Arduino (again). I was able to replace it but figuring out how to have the button and solenoids working without burning my Arduino was very challenging.
 
 ![aperitif-01](https://cloud.githubusercontent.com/assets/21225598/25788268/c19faf62-3375-11e7-8268-1a2b5c4a73fe.jpg)
 ![aperitif-02](https://cloud.githubusercontent.com/assets/21225598/25788318/36aaf9ce-3376-11e7-8537-852848963e2e.jpg)
@@ -84,16 +84,21 @@ After setting up the solenoids on the frame and re-wiring everything, I re-worke
 
 The code can easily be modified to deliver any drink for 5 seconds (more or less). It should be noted that the device is not limited to only one drink. The design can be modified to make numerous drinks each selected by a push button. 
 
+##Issues with the Button
+
+[Video: Issues pushing the button to sequence the solenoids](https://vimeo.com/216448266)
+
 ##Health Benefits of an Apéritif Cocktail:
 
 <img width="600" alt="human-body-diagrams" src="https://cloud.githubusercontent.com/assets/21225598/25789382/4ce0359e-337e-11e7-80aa-e79f5b599edb.png">
 
-##Showcase
+I presented the dispenser hoping the button would work but unfortunately it was not possible. I took out the button from the code and presented the solenoids opening and closing through a loop. I was worried the bottles would spill during the show so I decided to keep one bottle on the frame for display.
 
 ![aperitif-showcase](https://cloud.githubusercontent.com/assets/21225598/25789134/34bb8f1a-337c-11e7-9f30-59fc265ec047.jpg)
 
 <img width="537" alt="negroni-test-03-01" src="https://cloud.githubusercontent.com/assets/21225598/25790385/19a23e9a-3386-11e7-8b79-3653b23c3c53.png">
 <img width="538" alt="negroni-test-03-02" src="https://cloud.githubusercontent.com/assets/21225598/25790463/b4e5471c-3386-11e7-8d8a-164894bda09e.png">
 
+##Questions & Next Steps
 
-##Next Steps
+I will continue to work on my dispenser and hopefully make the button work with a sequence of solenoids opening and closing. It was really challenging calculating the engineering aspect of this project. In a sense I did not have the control of how much water was going to come out. The water pump is continuously drawing in water but when all the solenoid’s are closed where does the water go? I'm going to look into a pressure regulator. 
