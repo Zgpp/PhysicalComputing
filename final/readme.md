@@ -37,12 +37,17 @@ Once I got the first solenoid working properly, the next thing was to try and co
 <img width="480" alt="solenoid-test" src="https://cloud.githubusercontent.com/assets/21225598/25322361/4cc71596-2884-11e7-8a91-1ad219b5b406.png">
 ![002-testing-all-solenoids](https://cloud.githubusercontent.com/assets/21225598/25321947/6a03694c-2880-11e7-97cd-ff4f766e268c.jpg)
 ![003-testing-all-solenoids](https://cloud.githubusercontent.com/assets/21225598/25321987/ac6d55e0-2880-11e7-9a3f-ec169cc16d95.jpg)
+
+The code below tested the opening and closing of the solenoids.
+
 <img width="480" alt="three-solenoids-test-01" src="https://cloud.githubusercontent.com/assets/21225598/25322380/83832c1e-2884-11e7-8676-927598aed041.png">
 <img width="480" alt="three-solenoids-test-02" src="https://cloud.githubusercontent.com/assets/21225598/25322409/bc63f7a2-2884-11e7-835c-20ea6578272f.png">
 
 [Video: Testing the Solenoid](https://vimeo.com/214440852)
 
 ##Creating the Frame
+
+With only two hands, I was having a difficult time testing the solenoids with all three bottles turned upside down. I decided to begin working on the frame to at least hold everything together while I'm testing. I began by measuring the distance between each bottle (4 inches). By adding an inch by each side, the total frame is 14 inches wide and 18 inches in height. Below is an sketch of my frame. 
 
 ![004-creating-the-frame-sketch](https://cloud.githubusercontent.com/assets/21225598/25322017/f94cd7be-2880-11e7-82cb-009ea6ee9ada.jpg)
 ![005-creating-the-frame](https://cloud.githubusercontent.com/assets/21225598/25322208/dad4c146-2882-11e7-87c8-99b31530171e.jpg)
