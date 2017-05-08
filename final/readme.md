@@ -64,10 +64,11 @@ Completion of the frame:
 
 ##Creating the Dispenser
 
-After setting up the three solenoids and re-wiring everything. I re-worked the code for the solenoids to release after 5 seconds 
+After setting up the three solenoids and re-wiring everything. I re-worked the code for the solenoids to release after 5 seconds and included a push button to initiate the negroni drink.
 
 ![aperitif-01](https://cloud.githubusercontent.com/assets/21225598/25788268/c19faf62-3375-11e7-8268-1a2b5c4a73fe.jpg)
 ![aperitif-02](https://cloud.githubusercontent.com/assets/21225598/25788318/36aaf9ce-3376-11e7-8537-852848963e2e.jpg)
+![button-01](https://cloud.githubusercontent.com/assets/21225598/25789825/c51aeae2-3381-11e7-8758-35ee6f1f0368.jpg)
 
 ##Health Benefits of an Apéritif Cocktail:
 
